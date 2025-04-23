@@ -1,0 +1,10 @@
+feedparser==6.0.11
+aiohttp
+isodate==0.6.0
+playwright==1.48.0
+playwright-stealth==1.0.6
+fake-useragent==2.0.3
+inference_sdk==0.39.0
+yt-dlp==2025.2.19
+# playwright install
+# conda install -c conda-forge ffmpeg

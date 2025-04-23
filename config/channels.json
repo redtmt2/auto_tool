@@ -1,0 +1,20 @@
+[
+
+    {
+        "tiktokId": "jonystoryteller",
+        "channelId": "UCiHFE61INiXiO528YXmCh-A",
+        "channelName": "まりあですって",
+        "url": "https://www.youtube.com/@%E3%81%BE%E3%82%8A%E3%81%82%E3%81%A7%E3%81%99%E3%81%A3%E3%81%A6/shorts/"
+    },
+    {
+        "tiktokId": "redtmt2",
+        "channelId": "UCGTXb1okE1zFoDMkbnqK7FA",
+        "channelName": "duongbiettuot84",
+        "url": "https://www.youtube.com/@duongbiettuot84/shorts",
+        "proxy": {
+            "server": "64.137.126.113:6721",
+            "username": "ehszugna",
+            "password": "0tvfog0yw9mq"
+        }
+    }
+]

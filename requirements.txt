@@ -1,0 +1,12 @@
+feedparser==6.0.11
+aiohttp==3.9.3
+isodate==0.6.0
+playwright==1.48.0
+playwright-stealth==1.0.6
+fake-useragent==2.0.3
+inference_sdk>=0.39.0
+yt-dlp>=2025.2.19
+flask==2.3.3
+flask-cors==4.0.0
+requests>=2.32.0
+python-dotenv==1.0.0

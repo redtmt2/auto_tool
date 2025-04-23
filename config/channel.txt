@@ -1,0 +1,22 @@
+[
+
+    {
+        "tiktokId": "jonystoryteller",
+        "channelId": "UCGTXb1okE1zFoDMkbnqK7FA",
+        "channelName": "duongbiettuot84",
+        "url": "https://www.youtube.com/@duongbiettuot84/shorts",
+        "proxy": {
+            "host": "161.123.209.193",
+            "port": 6693,
+            "username": "gsnbzyjv",
+            "password": "j8znqy63gib4"
+        }
+    },
+    {
+        "tiktokId": "redtmt2",
+        "channelId": "UCKsBAErJjL4RszJUjuxW9rA",
+        "channelName": "_chiyuu_",
+        "url": "https://www.youtube.com/@_chiyuu_/shorts",
+        "proxy": "64.137.126.128:6736:ehszugna:0tvfog0yw9mq"
+    }
+]
